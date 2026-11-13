@@ -1,11 +1,17 @@
 {
   "name": "cadenzova",
-  "owner": { "name": "Cadenzova", "url": "https://cadenzova.com" },
+  "owner": {
+    "name": "Cadenzova",
+    "url": "https://cadenzova.com"
+  },
   "plugins": [
     {
       "name": "cadenzova",
       "source": "./",
       "description": "Plan, write, schedule and measure your social media with Cadenzova from Claude Code. Posts wait for your approval."
     }
-  ]
+  ],
+  "metadata": {
+    "description": "Official Cadenzova plugin for Claude Code: plan, write, schedule and measure your social media. Posts wait for your approval."
+  }
 }

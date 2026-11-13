@@ -2,7 +2,19 @@
   "name": "cadenzova",
   "version": "1.0.0",
   "description": "Plan, write, schedule and measure your social media with Cadenzova from Claude Code. Posts wait for your approval.",
-  "author": { "name": "Cadenzova", "url": "https://cadenzova.com" },
+  "author": {
+    "name": "Cadenzova",
+    "url": "https://cadenzova.com"
+  },
   "homepage": "https://cadenzova.com/features/ai-agents",
-  "keywords": ["social media", "marketing", "scheduling", "instagram", "pinterest", "tiktok", "mcp"]
+  "keywords": [
+    "social media",
+    "marketing",
+    "scheduling",
+    "instagram",
+    "pinterest",
+    "tiktok",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://www.cadenzova.com/privacy"
 }
