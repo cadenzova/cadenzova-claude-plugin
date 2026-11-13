@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cadenzova": {
+      "type": "http",
+      "url": "https://mcp.cadenzova.com/mcp"
+    }
+  }
+}
